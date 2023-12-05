@@ -58,11 +58,17 @@ Bedroom and Price
 ![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/84d3785d-903f-4d9b-817e-9d774c2da51f)
 
 data.floors.value_counts().plot(kind='bar')
+
 ![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/54e4d1a0-492a-4735-9a4e-4bc4eecca9e6)
 
 Which is the pricey location by zipcode
 
 ![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/a83ee45a-f3f4-4c53-939c-a4eb641a2969)
+
+plt.figure(figsize=(12, 6))
+plt.subplot(1, 2, 1)
+plt.plot(testsc,clf.train_score_,'b-',label= 'Set dev train')
+plt.plot(testsc,t_sc,'r-',label = 'set dev test')
 
 ![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/9870aec4-522e-4724-992b-1ee9efe00a1d)
 
