@@ -32,3 +32,5 @@ pip install
 6. xgboost
 
 Run the Jupyter notebook or VS code.
+
+![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/c96fd5b5-476e-4de6-9c73-e5fc845f3447)
