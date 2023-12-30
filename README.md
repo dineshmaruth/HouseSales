@@ -1,4 +1,4 @@
-House Price Predection ( this project is for internship purpose )
+House Price Predection (## This project is for internship purpose )
 ## overview
 
 This project focuses on predicting house prices using machine learning algorithms, including Linear Regression, Gradient Boosting Regressor, and XGBoost. The dataset used contains information about houses in King County
