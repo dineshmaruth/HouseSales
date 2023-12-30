@@ -49,9 +49,6 @@ Price vs Location of the area
 
 ![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/27737159-84f5-410a-ac94-f5d3eb7b68ac)
 
-Latitude vs Price
-
-![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/05c6e8ca-2214-478f-a1d2-f6c5254380e6)
 
 Bedroom and Price
 
