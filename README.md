@@ -36,12 +36,6 @@ Run the Jupyter notebook or VS code.
 
 #images
 
-function seaborn.utils.despine(fig=None, ax=None, top=True, right=True, left=False, bottom=False, offset=None, trim=False)
-
-![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/c96fd5b5-476e-4de6-9c73-e5fc845f3447)
-
-![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/71d3f134-eaf4-4696-ad04-ce863d6cf8ef)
-
 Price vs Square Feet
 
 ![image](https://github.com/dineshmaruth/HouseSales/assets/136602882/2e1ff52c-5a98-4b73-b312-90215491be35)
